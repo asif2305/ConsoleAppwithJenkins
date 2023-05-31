@@ -1,0 +1,15 @@
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\bin\Debug\net6.0\ConsoleAppwithJenkins.exe
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\bin\Debug\net6.0\ConsoleAppwithJenkins.deps.json
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\bin\Debug\net6.0\ConsoleAppwithJenkins.runtimeconfig.json
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\bin\Debug\net6.0\ConsoleAppwithJenkins.dll
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\bin\Debug\net6.0\ConsoleAppwithJenkins.pdb
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.csproj.AssemblyReference.cache
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.AssemblyInfoInputs.cache
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.AssemblyInfo.cs
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.csproj.CoreCompileInputs.cache
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.dll
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\refint\ConsoleAppwithJenkins.dll
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.pdb
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ConsoleAppwithJenkins.genruntimeconfig.cache
+D:\Programming\Github\ConsoleAppwithJenkins\ConsoleAppwithJenkins\obj\Debug\net6.0\ref\ConsoleAppwithJenkins.dll
