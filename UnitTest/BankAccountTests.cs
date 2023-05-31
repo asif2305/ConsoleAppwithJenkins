@@ -16,7 +16,7 @@ namespace UnitTest
 
             double beginningBalance = 11.99;
             double debitAmount = 4.55;
-            double expected = 16.54;
+            double expected = 6.54;
             BankAccount account = new BankAccount("Md Hasan Ali", beginningBalance);
             account.Debit(debitAmount);
 
